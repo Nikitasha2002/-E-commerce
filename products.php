@@ -1,0 +1,221 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+    <script type="text/javascript" src="bootstrap/js/jquery-3.3.1.min"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="StyleCss.css">
+    <title>Products</title>
+    <style>
+        footer{
+            margin-top:100%;
+        }
+        .rr{
+            background-color: red;
+        }
+       
+    </style>
+  </head> 
+  <body>
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>                        
+                    </button>
+                    <a class="navbar-brand" href="index.html">Lifestyle Store</a>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="cart.html"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</a></li>
+                        <li><a href="setting.html"><span class="glyphicon glyphicon-cog"></span> Settings</a></li>
+                        <li><a href="logout.html"><span class="glyphicon glyphicon-log-out"></span> Log Out</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+      <br><br><br><br>
+      <div class="container">
+          
+      <div class="jumbotron ">
+          <center>
+          <h1> Welcome to our Lifestyle Store! </h1>
+          <p> We have the best cameras, watches and shirts for you. No need to hunt around, we have all in one place. </p>
+          </center>
+      </div>
+          <div class="row text-center">
+            <div  class="col-md-3 col-sm-6">
+                <div class="thumbnail">
+                <img src="img/camera.jpg" class="img-responsive" alt="camera">
+                <div class="caption">
+                    <h2>Camera</h2>
+                    <p>This DSLR camera</p>
+                </div>
+                <div class="btn btn-primary btn-block">
+                    Add to cart
+                </div>
+                </div>
+                
+            </div>
+            <div  class="col-md-3 col-sm-6">
+                    <div class="thumbnail">
+                <img src="img/camera.jpg" class="img-responsive" alt="camera">
+                <div class="caption">
+                    <h2>Camera</h2>
+                    <p>This DSLR camera</p>
+                </div>
+                <div class="btn btn-primary btn-block">
+                    Add to cart
+                </div>
+                </div>
+                
+            </div>
+            <div  class="col-md-3 col-sm-6">
+                     <div class="thumbnail">
+                <img src="img/camera.jpg" class="img-responsive" alt="camera">
+                <div class="caption">
+                    <h2>Camera</h2>
+                    <p>This DSLR camera</p>
+                </div>
+                <div class="btn btn-primary btn-block">
+                    Add to cart
+                </div>
+                </div>
+                 
+            </div>
+            <div  class="col-md-3 col-sm-6">
+                    <div class="thumbnail">
+                <img src="img/camera.jpg" class="img-responsive" alt="camera">
+                <div class="caption">
+                    <h2>Camera</h2>
+                    <p>This DSLR camera</p>
+                </div>
+                <div class="btn btn-primary btn-block">
+                    Add to cart
+                </div>
+                </div>
+                
+            </div>
+          </div>
+          
+           <div class="row text-center">
+            <div  class="col-md-3 col-sm-6">
+                <div class="thumbnail">
+                <img src="img/watch.jpg" class="img-responsive" alt="camera">
+                <div class="caption">
+                    <h2>Watch</h2>
+                    <p>This is classy Watches</p>
+                </div>
+                <div class="btn btn-primary btn-block">
+                    Add to cart
+                </div>
+                </div>
+                
+            </div>
+            <div  class="col-md-3 col-sm-6">
+                    <div class="thumbnail">
+                <img src="img/watch.jpg" class="img-responsive" alt="camera">
+                <div class="caption">
+                    <h2>Watch</h2>
+                    <p>This is classy Watches</p>
+                </div>
+                <div class="btn btn-primary btn-block">
+                    Add to cart
+                </div>
+                </div>
+                
+            </div>
+            <div  class="col-md-3 col-sm-6">
+                     <div class="thumbnail">
+                <img src="img/watch.jpg" class="img-responsive" alt="camera">
+                <div class="caption">
+                    <h2>Watch</h2>
+                    <p>This is classy Watches</p>
+                </div>
+                <div class="btn btn-primary btn-block">
+                    Add to cart
+                </div>
+                </div>
+                 
+            </div>
+            <div  class="col-md-3 col-sm-6">
+                    <div class="thumbnail">
+                <img src="img/watch.jpg" class="img-responsive" alt="camera">
+                <div class="caption">
+                    <h2>Watch</h2>
+                    <p>This is Classy Watches</p>
+                </div>
+                <div class="btn btn-primary btn-block">
+                    Add to cart
+                </div>
+                </div>
+            </div>
+           </div>
+          
+           <div class="row text-center">
+            <div  class="col-md-3 col-sm-6">
+                <div class="thumbnail">
+                <img src="img/shirt.jpg" class="img-responsive" alt="camera">
+                <div class="caption">
+                    <h2>Shirt</h2>
+                    <p>This is Denim Shirts</p>
+                </div>
+                <div class="btn btn-primary btn-block">
+                    Add to cart
+                </div>
+                </div>
+                
+            </div>
+            <div  class="col-md-3 col-sm-6">
+                    <div class="thumbnail">
+                <img src="img/shirt.jpg" class="img-responsive" alt="camera">
+                <div class="caption">
+                    <h2>Shirt</h2>
+                    <p>This is Denim Shirts</p>
+                </div>
+                <div class="btn btn-primary btn-block">
+                    Add to cart
+                </div>
+                </div>
+                
+            </div>
+            <div  class="col-md-3 col-sm-6">
+                     <div class="thumbnail">
+                <img src="img/shirt.jpg" class="img-responsive" alt="camera">
+                <div class="caption">
+                    <h2>Shirt</h2>
+                    <p>This is Denim Shirts</p>
+                </div>
+                <div class="btn btn-primary btn-block">
+                    Add to cart
+                </div>
+                </div>
+                 
+            </div>
+            <div  class="col-md-3 col-sm-6">
+                    <div class="thumbnail">
+                <img src="img/shirt.jpg" class="img-responsive" alt="camera">
+                <div class="caption">
+                    <h2>Shirt</h2>
+                    <p>This is Denim Shirts</p>
+                </div>
+                <div class="btn btn-primary btn-block">
+                    Add to cart
+                </div>
+                </div>
+            </div>
+           </div>
+      </div> 
+      <footer>
+          <div class="container">
+              <center>
+                  Copyright © Lifestyle Store. All Rights Reserved and Contact Us: +91 8853479798
+              </center>
+          </div>
+      </footer>
+  </body>
+</html>
